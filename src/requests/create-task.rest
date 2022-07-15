@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/tasks
+Content-Type: application/json
+
+{
+  "title" : "new Test",
+  "description" : "desc bla bla bla",
+  "date" : "2021-08-30T19:20:14.298Z"
+}

@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/tasks/fTGPK2GhLpSDUlINwcMd
+Content-Type: application/json
+
+{
+  "title" : "changed new Test",
+  "description" : "changed desc bla bla bla",
+  "date" : "2021-08-30T19:20:14.298Z"
+}
